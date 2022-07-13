@@ -1,7 +1,8 @@
 # TSF-GRIP-2021
 **The Sparks Foundation Internship (Data Science &amp; Business Analytics Intern)**
+
 TSF-Internship-Task
-This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
+* These are the tasks completed by us in the internship with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
 
 Task 1 - To explore `Supervised Machine Learning`. In this regression task, we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables. 
 Problem statement: What will be predicted score if a student study for 9.25 hrs in a day?
